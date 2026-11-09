@@ -1,0 +1,7 @@
+html { font-size: 14px; position: relative; min-height: 100%; }
+@media (min-width: 768px) { html { font-size: 16px; } }
+body { margin-bottom: 60px; }
+.footer { position: absolute; bottom: 0; width: 100%; line-height: 60px; }
+.banner { max-width: 100%; height: auto; }
+.banner-large { max-height: 300px; }
+.profile-picture { width: 120px; height: 120px; object-fit: cover; }
